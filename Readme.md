@@ -10,14 +10,97 @@ Essas questões foram parte de uma tarefa da faculdade.
     <li>Seleção Aninhada ou Concatenada.
     <li>Operadores Lógicos
 </ul>
-
 O enunciado de todas as questões ficaram aqui. 
 
-![Captura de Tela (446)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (446).png)
+1. Implemente em C a seguinte instrução:
 
-![Captura de Tela (447)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (447).png)
+   A <- 10
 
-![Captura de Tela (448)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (448).png)
+   B <- 20
+
+   Escrever B
+
+   B<- 5
+
+   Escrever A, B
+
+2. Implemente em C a seguinte instrução:
+
+   A<- 30
+
+   B<- 20
+
+   C<- A + B
+
+   Escrever C
+
+   B<- 10
+
+   Escrever B, C
+
+   C<- A + B
+
+   Escrever A, B, C
+
+3. Implemente em C a seguinte instrução:
+
+​       A<- 10
+
+​       B<-20
+
+​	   C<- A
+
+​        B<- C
+
+​        A<- B
+
+​        Escrever A, B, C
+
+   4. Implemente em C a seguinte instrução:
+
+      A<- 10
+
+      B<- A + 1
+
+      A<- B + 1
+
+      B<- A + 1
+
+      Escrever A
+
+      A<- B + 1
+
+      Escrever A, B
+
+     5. Implemente em C a seguinte instrução:
+
+        A<- 10
+
+        B<- 5
+
+        C<- A + B
+
+        B<- 20
+
+        A<-10
+
+        Escrever A, B, C
+
+     6. Implemente em C a seguinte instrução:
+
+        X<- 1
+
+        Y<- 2
+
+        Z<- Y - X
+
+        Escrever Z
+
+        X<- 5
+
+        Y<- X + Z
+
+        Escrever X, Y, Z
 
 7. Escreva um algoritmo que armazene o valor 10 em uma variável A e o evalor 20 em uma variável B. A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados nas variáveis.
 8. Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor. 
@@ -29,11 +112,13 @@ O enunciado de todas as questões ficaram aqui.
 14. Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. Escrever um algoritmo que leia o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcule e escreva o salário final do vendedor.
 15. Escreva um algoritmo para ler uma temperatura em graus Fahrenheit, calcular e escrever o valor correspondente em graus Celsius (baseado na fórmula abaixo):
 
-![Captura de Tela (450)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (450).png)
+​       C/5 = (F-32)/9
+
+​       Observação: para testar se a sua resposta está correta saiba que 100C = 212F
 
 16. Faça um algoritmo que leia três notas de um aluno, calcule e escreva a média final deste aluno. Considerar que a média é ponderada e que o peso das notas é 2, 3 e 5. Fórmula para o cálculo da média final é: 
 
-![Captura de Tela (452)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (452).png)
+​        mediafinal= (n1 *  + n2 * 3 + n3 * 5) / 10
 
 ### Estrutura de Seleção e Operadores Relacionais 
 
@@ -67,11 +152,50 @@ O enunciado de todas as questões ficaram aqui.
 
 34. Implemente em C o seguinte algoritmo:
 
-    ![Captura de Tela (454)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (454).png)
+    início
+
+    ​		ler x
+
+    ​		ler y
+
+    ​		z <- (x * y)  +  5
+
+    ​		se z <= 0 então
+
+    ​			resposta <- 'A'
+
+    ​		senão
+
+    ​			se z <= 100 então
+
+    ​					reposta <- 'B'
+
+    ​			senão
+
+    ​					resposta <- 'C'
+
+    ​			fim_se
+
+    ​		fim_se
+
+    ​		escrever z, resposta
+
+    fim
 
 35. Um posto está vendendo combustíveis com a seguinte tabela de descontos: 
 
-    ![Captura de Tela (456)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (456).png)
+    #### Álcool 
+
+    - Até 20 litros, desconto de 3% por litro.
+    - Acima de 20 litros, desconto de 5% por litro.
+
+    #### Gasolina
+
+    - Até 20 litros, desconto de 4% por litro
+
+    - Acima de 20 litros, desconto de 6% por litro
+
+      
 
 Escreva um algoritmo que leia o número de litros vendidos e o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 3,30 e o preço do litro do álcool é R$ 2,90. 
 
@@ -103,7 +227,23 @@ c) A ou C e B xou A e não B
 
 41. Faça um algoritmo para ler as 3 notas obtidas por um aluno nas 3 verificações e a média dos exercícios que fazem parte da avaliação. Calcular a média de aproveitamento, usando a fórmula abaixo e escrever o conceito do aluno de acordo com a tabela de conceitos mais abaixo: 
 
-![Captura de Tela (459)](C:\Users\Lanna Feitoza\Pictures\Screenshots\Captura de Tela (459).png)
+    
+
+Média_de_Apropveitamento= (N1 + N2 * 2 + N3 * 3 + Média_dos_Exercícios) / 7
+
+
+
+#### A atribuição de conceitos obedece a tabela abaixo:
+
+##### Média de Aproveitamento                                      Conceito
+
+maior ou igual a 9,0  								                          A
+
+maior ou igual a 7,5 e menor que 9,0                              B
+
+maior ou igual a 6,0 e menor que 7,5                              C
+
+menor que 6,0                                                                      D
 
 42. Uma empresa quer verificar se um empregado está qualificado para a aposentadoria ou não. Para estar em condições, um dos seguintes requisitos deve ser satisfeito: - Ter no mínimo 65 anos de idade. - Ter trabalhado no mínimo 30 anos. - Ter no mínimo 60 anos e ter trabalhado no mínimo 25 anos. Com base nas informações acima, faça um algoritmo que leia: o número do empregado (código), o ano de seu nascimento e o ano de seu ingresso na empresa. O programa deverá escrever a idade e o tempo de trabalho do empregado e a mensagem 'Requerer aposentadoria' ou 'Não requerer'. 
 
