@@ -1,6 +1,5 @@
 # Lista de 44 questões na Linguagem C
 
-<pre>
 
 Essas questões foram parte de uma tarefa da faculdade.
 
@@ -54,11 +53,11 @@ O enunciado de todas as questões ficaram aqui.
 
 ​	   C<- A
 
-​        B<- C
+​       B<- C
 
-​        A<- B
+​       A<- B
 
-​        Escrever A, B, C
+​       Escrever A, B, C
 
 
 
@@ -151,8 +150,7 @@ O enunciado de todas as questões ficaram aqui.
         C/5 = (F-32)/9
         
            Observação: para testar se a sua resposta está correta saiba que 100C = 212F
-           
-
+    
 16. Faça um algoritmo que leia três notas de um aluno, calcule e escreva a média final deste aluno. Considerar que a média é ponderada e que o peso das notas é 2, 3 e 5. Fórmula para o cálculo da média final é: 
 
 ​        mediafinal= (n1 *  + n2 * 3 + n3 * 5) / 10
@@ -233,6 +231,7 @@ O enunciado de todas as questões ficaram aqui.
 
     <pre>início
 
+
     ler x
 
     ​		ler y
@@ -259,7 +258,7 @@ O enunciado de todas as questões ficaram aqui.
 
     ​		escrever z, resposta
 
-    fim
+    fim</pre>
 
     
 
@@ -326,15 +325,15 @@ Média_de_Apropveitamento= (N1 + N2 * 2 + N3 * 3 + Média_dos_Exercícios) / 7
 
 #### A atribuição de conceitos obedece a tabela abaixo:
 
-##### Média de Aproveitamento                                      Conceito
+##### Média de Aproveitamento 
 
-maior ou igual a 9,0  								                          A
+maior ou igual a 9,0 -> CONCEITO: A
 
-maior ou igual a 7,5 e menor que 9,0                              B
+maior ou igual a 7,5 e menor que 9,0 -> CONCEITO: B​                       
 
-maior ou igual a 6,0 e menor que 7,5                              C
+maior ou igual a 6,0 e menor que 7,5 -> CONCEITO: C          
 
-menor que 6,0                                                                      D
+menor que 6,0 ->  CONCEITO:D                                      
 
 
 
@@ -354,4 +353,3 @@ menor que 6,0                                                                   
 
 44. Ler 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores. 
 
-</pre>
