@@ -1,3 +1,5 @@
+//Autora: Lanna Feitoza
+
 #include <stdio.h>
 #include <locale.h>
 

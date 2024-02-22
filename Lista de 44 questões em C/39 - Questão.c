@@ -1,3 +1,5 @@
+//Autora: Lanna Feitoza
+
 #include <stdio.h>
 
 #define a 1

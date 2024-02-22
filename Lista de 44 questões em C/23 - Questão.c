@@ -1,3 +1,5 @@
+//Autora: Lanna Feitoza
+
 #include <stdio.h>
 
 #define hora_jogada_2 24

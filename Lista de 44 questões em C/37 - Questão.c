@@ -1,3 +1,5 @@
+//Autora: Lanna Feitoza
+
 #include <stdio.h>
 
 #define preco_morango 2.5

@@ -1,3 +1,5 @@
+//Autora: Lanna Feitoza
+
 #include <stdio.h>
 
 int main (){
@@ -8,7 +10,7 @@ int main (){
 
     b=5;
 
-    printf("A: %d, B:% d", a, b);
+    printf("\nA: %d\nB:% d", a, b);
 
     return 0;
 
