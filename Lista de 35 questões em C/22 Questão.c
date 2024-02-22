@@ -1,9 +1,15 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Escreva um algoritmo que imprima todas as possibilidades de que no lançamento de dois
+dados tenhamos o valor 7 como resultado da soma dos valores de cada dado.
+*/
+
 #include <stdio.h>
 
 int main(){
 
     int lado= 0, soma;
-    
+
     for(lado = 1; lado <= 6; lado++){
 
         soma= 1 + lado;
@@ -29,8 +35,7 @@ int main(){
         soma= 6 + lado;
         if(soma == 7)
             printf("Lados %d + 6 = %d\n", lado, soma);
-        
-    
+
     }
 
     return 0;

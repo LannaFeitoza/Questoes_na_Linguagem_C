@@ -1,3 +1,10 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Elabore um algoritmo que, a partir de um dia, mês e ano fornecidos, valide se eles
+compõem uma data válida. Não deixe de considerar os meses com 30 ou 31 dias, e o
+tratamento de ano bissexto.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -61,7 +68,7 @@ int main(){
         else
             printf("Data: %d/%d/%d inválida!", dia, mes, ano);
 
-    }
+        }
     }
 
     else{

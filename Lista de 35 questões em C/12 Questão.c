@@ -1,3 +1,11 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Construa um algoritmo que seja capaz de concluir qual dentre os seguintes animais foi
+escolhido, através de perguntas e respostas. Animais possíveis: leão, cavalo, homem,
+macaco, morcego, baleia, avestruz, pingüim, pato, águia, tartaruga, crocodilo e cobra.
+(Exemplo no pdf!)
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

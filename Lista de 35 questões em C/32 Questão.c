@@ -1,3 +1,10 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Anacleto tem 1,50 metro e cresce 2 centímetros por ano, enquanto Felisberto tem
+1, 1 O metro e cresce 3 centímetros por ano. Construa um algoritmo que calcule e imprima
+quantos anos serão necessários para que Felisberto seja maior que Anacleto.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

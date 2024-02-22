@@ -1,3 +1,18 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Em uma eleição presidencial existem quatro candidatos. Os votos são informados por
+código. Os dados utilizados para a escrutinagem obedecem à seguinte codificação:
+• 1,2,3,4 = voto para os respectivos candidatos;
+• 5 = voto nulo;
+• 6 = voto em branco.
+
+Elabore um algoritmo que calcule e escreva:
+• o total de votos para cada candidato e seu percentual sobre o total;
+• o total de votos nulos e seu porcentual sobre o total;
+• o total de votos em branco e seu percentual sobre o total.
+Como finalizador do conjunto de votos, tem-se o valor O.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -7,6 +22,9 @@ int main(){
 
     int v1=0, v2=0, v3=0, v4=0, nulo=0, branco=0, total=0, receptor;
     float percent;
+
+    printf("Opções:\n\n->1,2,3,4 = voto para os respectivos candidatos;");
+    printf("\n->5 = voto nulo;\n->6 = voto em branco;\n->0 = Terminar votação.\n\n");
 
     while(receptor != 0){
 

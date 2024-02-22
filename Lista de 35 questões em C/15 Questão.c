@@ -1,3 +1,9 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Faça um algoritmo que seja capaz de obter o quociente inteiro da divisão de dois números
+fornecidos, sem utilizar a operação de divisão(/) e nem divisão inteira (div).
+*/
+
 #include <stdio.h>
 
 int main(){

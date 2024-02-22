@@ -1,3 +1,27 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Um cinema possui capacidade de 100 lugares e está sempre com ocupação total. Certo dia,
+cada espectador respondeu a um questionário, no qual constava:
+
+• sua idade;
+• sua opinião em relação ao filme, segundo as seguintes notas:
+
+Nota              Significado
+A '                      Otimo
+B                         Bom
+c                       Regular
+D                        Ruim
+E                      Péssimo
+
+Elabore um algoritmo que, lendo esses dados, calcule e imprima:
+• a quantidade de respostas Otimo;
+• a diferença percentual entre respostas Bom e Regular;
+• a média de idade das pessoas que responderam Ruim;
+• a porcentagem de respostas Péssimo e a maior idade que utilizou essa opção; ,
+• a diferença de idade entre a maior idade que respondeu Otimo e a maior idade que
+respondeu Ruim.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

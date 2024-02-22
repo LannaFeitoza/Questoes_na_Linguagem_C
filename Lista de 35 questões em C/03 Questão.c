@@ -1,3 +1,9 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Prepare um algoritmo capaz de inverter um número, de 3 dígitos, fornecido, ou seja,
+apresentar primeiro a unidade e, depois, a dezena e a centena.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

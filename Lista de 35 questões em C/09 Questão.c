@@ -1,3 +1,8 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Escreva o signo do zodíaco correspondente ao dia e mês informado.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

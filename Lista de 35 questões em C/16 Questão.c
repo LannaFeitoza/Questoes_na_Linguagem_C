@@ -1,3 +1,10 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Faça um algoritmo que seja capaz de obter o resultado de uma exponenciação para
+qualquer base e expoente inteiro fornecidos, sem utilizar a operação de exponenciação
+(pot).
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

@@ -1,3 +1,9 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Elabore um algoritmo que imprima todos os números primos existentes entre N I e N2,
+em que N I e N2 são números naturais fornecidos pelo usuário.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

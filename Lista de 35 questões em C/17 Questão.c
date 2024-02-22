@@ -1,3 +1,9 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Construa um algoritmo que gere os 20 primeiros termos de uma série tal qual a de
+Fibonacci, mas que cujos 2 primeiros termos são fornecidos pelo usuário.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

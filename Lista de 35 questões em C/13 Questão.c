@@ -1,3 +1,9 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Elabore um algoritmo que obtenha o mínimo múltiplo comum (MMC) entre dois números
+fornecidos.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

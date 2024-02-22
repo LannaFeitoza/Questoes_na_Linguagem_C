@@ -1,3 +1,9 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Escreva um algoritmo que calcule e escreva a soma dos dez primeiros termos da seguinte , . serie:
+2/500 - 5/450 + 2/400 - 5/350 + ...
+*/
+
 #include <stdio.h>
 
 int main(){

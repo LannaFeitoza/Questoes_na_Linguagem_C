@@ -1,3 +1,13 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Uma agência de publicidade quer prestar serviços somente para as maiores companhias
+- em número de funcionários - em cada uma das classificações: grande, média, pequena
+e microempresa. Para tal, consegue um conjunto de dados com o código, o número de
+funcionários e o porte da empresa. Construa um algoritmo que liste o código da empresa
+com maiores recursos humanos dentro de sua categoria. Utilize como finalizador o código
+de empresa igual a O.
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <locale.h>

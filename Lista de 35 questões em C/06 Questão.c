@@ -1,3 +1,11 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Um dado comerciante maluco cobra 10% de acréscimo para cada prestação em atraso
+e depois dá um desconto de 10% sobre esse valor. Faça um algoritmo que solicite o
+valor da prestação em atraso e apresente o valor final a pagar, assim como o prejuízo do
+comerciante na operação.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

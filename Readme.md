@@ -1,5 +1,11 @@
 # Listas com questões resolvidas em C
 - - - 
+
+### Sobre o desenvolvimento das respostas das questões:
+Todas as respostas foram feitas por mim! 
+Fiz na época em que eu estava aprendendo C.
+
+---
 ### Lista de 35 questões:
 O enunciado das questões estão no livro de Lógica de Programação - 3a Edição.(está na pasta com os códigos).
 
@@ -13,10 +19,10 @@ O enunciado das questões estão no livro de Lógica de Programação - 3a Ediç
 - - -
 ### Lista de 44 questões:
 Enunciado das questões na pasta também!
+
 - Começa pelo básico desde criar uma variável e saber trocar os valores delas;
 - Estrutura de Seleção e Operadores Relacionais;
 - Seleção Aninhada ou Concatenada;
 - Operadores Lógicos.
 
-Se tiverem dúvidas é só entrar em contato comigo pelo e-mail. ;D
 

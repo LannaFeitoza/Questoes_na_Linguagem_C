@@ -1,3 +1,12 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Construa um algoritmo que leia um conjunto de dados contendo altura e sexo ('M' para
+masculino e 'F' para feminino) de 50 pessoas e, depois, calcule e escreva:
+• a maior e a menor altura do grupo;
+• a média de altura das mulheres;
+• o número de homens e a diferença porcentual entre eles e as mulheres.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 
@@ -11,7 +20,7 @@ int main(){
 
 
     for(con=1; con <= 50; con++){
-        printf("Digite o sexo: ");
+        printf("Digite o sexo[F] ou [M]: ");
         scanf("%s", sexo);
 
         printf("Digite a altura: ");

@@ -1,3 +1,9 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Construa um algoritmo que calcule a média ponderada entre 5 números quaisquer, sendo
+que os pesos a serem aplicados são 1, 2, 3, 4 e 5 respectivamente.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

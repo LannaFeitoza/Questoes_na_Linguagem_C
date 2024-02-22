@@ -1,3 +1,8 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Elabore um algoritmo que calcule a área de um círculo qualquer de raio fornecido.
+*/
+
 #include <stdio.h>
 #include <math.h>
 #include <locale.h>

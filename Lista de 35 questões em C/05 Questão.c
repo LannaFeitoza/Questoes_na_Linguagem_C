@@ -1,3 +1,10 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Dada uma determinada data de aniversário (dia, mês e ano separadamente), elabore um
+algoritmo que solicite a data atual (dia, mês e ano separadamente) e calcule a idade em
+anos, em meses e em dias.
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

@@ -1,3 +1,11 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Calcule o imposto de renda de um grupo de dez contribuintes, considerando que os dados
+de cada contribuinte, número do CPF, número de dependentes e renda mensal são valores
+fornecidos pelo usuário. Para cada contribuinte será feito um desconto de 5°/4 do salário
+mínimo por dependente.(Resto dos valores no pdf!)
+*/
+
 #include <stdio.h>
 #include <locale.h>
 

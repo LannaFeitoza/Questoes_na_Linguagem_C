@@ -9,5 +9,5 @@ O enunciado das questões estão no livro de Lógica de Programação - 3a Ediç
   3. Estruturas de repetição.
 
 - - -
-Se tiverem dúvidas é só entrar em contato comigo pelo e-mail. ;D
+
 

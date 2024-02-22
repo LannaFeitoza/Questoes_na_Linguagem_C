@@ -1,3 +1,22 @@
+/*
+Autora: Lanna Feitoza
+Enunciado: Foi realizada uma pesquisa sobre algumas características físicas da população de uma certa
+região, a qual coletou os seguintes dados referentes a cada habitante para análise:
+• sexo ('M' - masculino ou 'F' - feminino);
+• cor dos olhos (W. - azuis, 'V' - verdes ou 'C'- castanhos);
+• cor dos cabelos ('L: - loiros, 'C' - castanhos ou 'P'- pretos);
+• idade.
+
+Faça um algoritmo que determine e escreva:
+• a maior idade dos habitantes;
+• a porcentagem entre os indivíduos do sexo masculino, cuja idade está entre 18 e 35
+anos, inclusive;
+• a porcentagem do total de indivíduos do sexo feminino cuja idade está entre 18 e 35
+anos, inclusive, e que tenham olhos verdes e cabelos loiros.
+
+O final do conjunto de habitantes é reconhecido pelo valor -1 entrando como idade.
+*/
+
 #include <stdio.h>
 
 int main (){
